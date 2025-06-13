@@ -106,10 +106,6 @@ All conversations are automatically logged in the `conversations/` directory wit
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ⚠️ Troubleshooting
 
 If you encounter the "Url is not a valid URL" error:
