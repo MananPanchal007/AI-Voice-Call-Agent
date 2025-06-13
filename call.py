@@ -62,7 +62,7 @@ def make_call(to_number: str, from_number: str, ngrok_url: str):
 
 if __name__ == "__main__":
     # Get values from environment variables
-    TO_NUMBER = os.getenv('TO_NUMBER', "+12499893720")  # The number to call
+    TO_NUMBER = os.getenv('TO_NUMBER', "+19998882323")  # The number to call
     FROM_NUMBER = os.getenv('TWILIO_PHONE_NUMBER')  # Your Twilio number
     
     if not FROM_NUMBER:
